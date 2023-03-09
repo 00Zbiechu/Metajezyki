@@ -1,8 +1,8 @@
-link:active{
+a:active{
     color: blueviolet;
 }
 
-link:visited{
+a:visited{
     color: cadetblue;
 }
 
